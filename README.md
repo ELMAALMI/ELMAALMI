@@ -5,6 +5,7 @@ Graduated with a degree in Software Engineering. I have proficiency in Java/Spri
 - :computer: Most used line of code `npm init -y | git commit -m "Initial Commit"`
 - 📫 How to reach me: elmaalmibillal@gmail.com
 - ⚡ All of my projects are available at :
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2269314" style='border:none;'></iframe>
 
 #### Technologies
 

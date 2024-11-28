@@ -6,8 +6,7 @@ Graduated with a degree in Software Engineering. I have proficiency in Java/Spri
 - 📫 How to reach me: elmaalmibillal@gmail.com
 - ⚡ All of my projects are available at :
 
-
-[![tryhackme Badge](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2269314)](#)
+![tryhackme stats](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2269314)
 #### Technologies
 
 <!-- TODO: Make technologies links takes you to repositories -->
